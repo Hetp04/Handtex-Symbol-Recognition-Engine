@@ -2,10 +2,10 @@
 
 Handtex is a React App that lets users upload their handwritten mathematical images which are fetched via API and run through a convolutional neural network to accurately predict handwritten expressions and converted to strings of LATEX.
 
-## Demo
+## Example
 
 <div align="center">
-  <img src="readme_images/demo.png">
+  <img src="readme_images/pie.png">
 </div>
 
 ## How It Works
